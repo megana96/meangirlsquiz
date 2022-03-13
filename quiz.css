@@ -1,0 +1,96 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body {
+background-color: #FFC2EB;
+
+}
+
+.col-sm-9 {
+width: 80%;
+max-width: 950px;
+margin: auto;
+margin-bottom: 20px;
+margin-top: 20px;
+padding: 10px;
+background-color: #FA5CBB;
+border-radius: 10px;
+display: ruby-base-container;
+}
+.col-3 { 
+width: 80%;
+max-width: 950px;
+margin: auto;
+margin-bottom: 20px;
+margin-top: 20px;
+padding: 10px;
+background-color: #FA5CBB;
+
+border-radius: 10px;
+display: block;
+}
+
+h1 {
+	background-image: url("meangirls.jpg");
+	color: #FA5CBB;
+	text-align: center;
+	font-size: 70px;
+}
+
+
+label {
+display: block;
+font-family: 'Bebas Neue', cursive;
+font-size: 22px;
+}
+
+input {
+width: 30px;
+margin-left: 20px;
+}
+
+h2 {
+clear: both;
+padding-top: 20px;
+font-family: 'Bebas Neue', cursive;
+font-size: 32px;
+color: #FA5CBB;
+}
+
+button {
+width: 100px;
+margin-top: 20px;
+font-family: 'Bebas Neue', cursive;
+color: #FA5CBB;
+}
+
+
+img {
+width: 100%;
+
+}
+
+@media screen and (max-width: 550px) {
+	h4 {
+		font-size: 16px;
+	}
+	h1 {
+		font-size: 20px;
+	}
+	p {
+		font-size: 14px;
+	}
+	button {
+		font-size: 14px;
+	}
+}
+
+
+
+
+
